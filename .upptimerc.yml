@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Personal
+    url: https://robinsonorrego.cl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses 
+  introMessage: Monitoreo de estado actual de servicios.
   navbar:
     - title: Status
       href: /
