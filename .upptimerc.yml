@@ -1,14 +1,12 @@
 # Change these first
 owner: RobinsonOrregoT  # Your GitHub organization or username, where this repository lives
-repo: Monitor # The name of this repository
+repo: /Monitor # The name of this repository
 
 sites:
   - name: Google
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: Personal
-    url: https://robinsonorrego.cl/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
