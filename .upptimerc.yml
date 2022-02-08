@@ -11,7 +11,10 @@ sites:
     url: $CSS
   - name: Private MSS
     url: $MSS
-
+  - name: Private PAC
+    url: $PAC
+  - name: Private Personal
+    url: $PERSONAL
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,8 +23,8 @@ status-website:
   baseUrl: /Monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitoreo
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Monitoreo de estado actual de servicios.
+  introTitle: Monitoreo de disponibilidad
+  introMessage: Monitoreo de estado actual de servicios, para reporte de incidencias.
   navbar:
     - title: Status
       href: /
