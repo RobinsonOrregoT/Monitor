@@ -27,15 +27,7 @@ status-website:
   introMessage: Monitoreo de estado actual de servicios, para reporte de incidencias.
   navbar:
     - title: Status
-      href: /
-
-workflowSchedule:
-  graphs: "1 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+      href: /Monitor
+      
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
