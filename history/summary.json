@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 142,
-    "timeDay": 73,
-    "timeWeek": 142,
-    "timeMonth": 142,
-    "timeYear": 142,
-    "dailyMinutesDown": {}
+    "time": 150,
+    "timeDay": 215,
+    "timeWeek": 235,
+    "timeMonth": 150,
+    "timeYear": 150,
+    "dailyMinutesDown": {
+      "2022-02-13": 1
+    }
   },
   {
     "name": "Private SS",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-13": 22,
+      "2022-02-13": 510,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
