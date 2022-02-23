@@ -40,10 +40,10 @@
     "url": "$CSS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-css",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 739,
@@ -51,7 +51,9 @@
     "timeWeek": 889,
     "timeMonth": 739,
     "timeYear": 739,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-23": 1
+    }
   },
   {
     "name": "Private MSS",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-23": 26,
+      "2022-02-23": 1319,
       "2022-02-22": 1440,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
