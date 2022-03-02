@@ -22,18 +22,20 @@
     "url": "$SS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-ss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 1692,
-    "timeWeek": 946,
-    "timeMonth": 749,
-    "timeYear": 749,
-    "dailyMinutesDown": {}
+    "time": 747,
+    "timeDay": 1190,
+    "timeWeek": 914,
+    "timeMonth": 747,
+    "timeYear": 747,
+    "dailyMinutesDown": {
+      "2022-03-02": 1
+    }
   },
   {
     "name": "Private CSS",
@@ -72,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 25,
+      "2022-03-02": 217,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
