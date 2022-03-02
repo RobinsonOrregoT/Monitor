@@ -22,9 +22,9 @@
     "url": "$SS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-ss",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "90.93%",
+    "uptimeDay": "90.88%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "99.58%",
     "uptimeYear": "99.58%",
@@ -34,7 +34,7 @@
     "timeMonth": 747,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2022-03-02": 131
+      "2022-03-02": 132
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-02": 348,
+      "2022-03-02": 570,
       "2022-03-01": 1440,
       "2022-02-28": 1440,
       "2022-02-27": 1440,
