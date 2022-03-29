@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 190,
-    "timeDay": 132,
-    "timeWeek": 91,
+    "time": 188,
+    "timeDay": 77,
+    "timeWeek": 92,
     "timeMonth": 113,
-    "timeYear": 190,
+    "timeYear": 188,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-ss",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "99.64%",
-    "time": 855,
-    "timeDay": 609,
-    "timeWeek": 808,
+    "uptimeYear": "99.65%",
+    "time": 852,
+    "timeDay": 675,
+    "timeWeek": 801,
     "timeMonth": 953,
-    "timeYear": 855,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2022-03-02": 251
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 847,
-    "timeDay": 596,
-    "timeWeek": 629,
-    "timeMonth": 941,
-    "timeYear": 847,
+    "time": 844,
+    "timeDay": 699,
+    "timeWeek": 657,
+    "timeMonth": 942,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2022-03-11": 25,
       "2022-02-23": 19
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-29": 31,
+      "2022-03-29": 1437,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
@@ -132,35 +132,39 @@
     "url": "$PAC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-pac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 1133,
-    "timeWeek": 773,
-    "timeMonth": 720,
-    "timeYear": 763,
-    "dailyMinutesDown": {}
+    "time": 764,
+    "timeDay": 828,
+    "timeWeek": 808,
+    "timeMonth": 717,
+    "timeYear": 764,
+    "dailyMinutesDown": {
+      "2022-03-29": 1
+    }
   },
   {
     "name": "Private Personal",
     "url": "$PERSONAL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-personal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 262,
-    "timeWeek": 340,
-    "timeMonth": 344,
-    "timeYear": 357,
-    "dailyMinutesDown": {}
+    "time": 359,
+    "timeDay": 457,
+    "timeWeek": 376,
+    "timeMonth": 346,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   }
 ]
