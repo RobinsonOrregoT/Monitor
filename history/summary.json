@@ -81,7 +81,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-06": 31,
+      "2022-06-06": 334,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
@@ -207,10 +207,10 @@
     "url": "$PAC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-pac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 762,
@@ -219,6 +219,7 @@
     "timeMonth": 697,
     "timeYear": 762,
     "dailyMinutesDown": {
+      "2022-06-06": 1,
       "2022-03-30": 56,
       "2022-03-29": 4
     }
@@ -228,9 +229,9 @@
     "url": "$PERSONAL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-personal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -240,6 +241,7 @@
     "timeMonth": 329,
     "timeYear": 349,
     "dailyMinutesDown": {
+      "2022-06-06": 0,
       "2022-03-30": 56,
       "2022-03-29": 4
     }
